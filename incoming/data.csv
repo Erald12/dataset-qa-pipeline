@@ -1,0 +1,9 @@
+id,text,label
+1,"The USD to PHP exchange rate changes daily.",time_sensitive
+2,"Water boils at 100 degrees Celsius at sea level.",time_sensitive
+3,"The Eiffel Tower is located in Paris.",not_time_sensitive
+4,"",not_time_sensitive
+5,"Ketchup is a condiment.",maybe
+1,"The current champion of the league is unknown.",time_sensitive
+6,"The latest iPhone model was released this year.",not_time_sensitive
+7,"Manila is the capital of the Philippines.",not_time_sensitive
