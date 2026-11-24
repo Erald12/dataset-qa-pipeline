@@ -1,4 +1,3 @@
-# check_env.py (put in the project root, run it, then delete it)
 import os
 from dotenv import find_dotenv, load_dotenv
 
