@@ -2,7 +2,6 @@ ALLOWED_LABELS = {"time_sensitive", "not_time_sensitive"}
 
 
 def run_checks(rows):
-    """Return a list of (id, issue) tuples for rule violations."""
     issues = []
     seen_ids = set()
 
