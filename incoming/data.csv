@@ -7,3 +7,26 @@ id,text,label
 1,"The current champion of the league is unknown.",time_sensitive
 6,"The latest iPhone model was released this year.",not_time_sensitive
 7,"Manila is the capital of the Philippines.",not_time_sensitive
+8,"Gold prices rose sharply this week.",not_time_sensitive
+9,"The human heart has four chambers.",time_sensitive
+10,"The current Philippine president was elected in 2022.",not_time_sensitive
+11,"Mount Everest is the tallest mountain above sea level.",not_time_sensitive
+12,"Today's weather in Cebu is 32 degrees with light rain.",time_sensitive
+13,"Photosynthesis converts sunlight into chemical energy.",not_time_sensitive
+14,"   ",not_time_sensitive
+15,"The stock price of the company closed higher on Friday.",time_sensitive
+16,"Shakespeare wrote Hamlet.",not_time_sensitive
+17,"The largest airport in Southeast Asia changes every few years.",time_sensitive
+18,"Pi is approximately 3.14159.",not_time_sensitive
+19,"Bitcoin's price is currently above its 2021 high.",not_time_sensitive
+20,"The Philippines has 17 administrative regions.",not_time_sensitive
+21,"Opening hours for the SM Megamall branch are 10 AM to 9 PM.",time_sensitive
+22,"Sound travels faster in water than in air.",not_time_sensitive
+23,"The next total solar eclipse visible from Manila is upcoming.",time_sensitive
+24,"Water is composed of hydrogen and oxygen.",not_time_sensitive
+25,"Hi",not_time_sensitive
+26,"The latest version of Python was released recently.",not_time_sensitive
+27,"Lake Taal is located in Batangas.",not_time_sensitive
+28,"Current unemployment figures are published monthly.",time_sensitive
+29,"Dogs are mammals.",time_sensitive
+30,"The national anthem of the Philippines is Lupang Hinirang.",not_time_sensitive
