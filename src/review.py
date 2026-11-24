@@ -4,9 +4,9 @@ import anthropic
 
 from dotenv import load_dotenv
 
-load_dotenv()  # reads .env from the project root
+load_dotenv()
 
-client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from the environment
+client = anthropic.Anthropic()
 
 GUIDELINE = (
     "Label a text 'time_sensitive' if it contains information that can change "
