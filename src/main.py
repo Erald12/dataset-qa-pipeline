@@ -16,7 +16,6 @@ def main():
     with INPUT.open(newline="", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
 
-    # Group rule-based issues by row ID
     issue_map = {}
     for row_id, issue in run_checks(rows):
         issue_map.setdefault(row_id, []).append(issue)
@@ -32,7 +31,6 @@ def main():
             if row["text"].strip():
                 result = review_row(row)
             else:
-                # Nothing for Claude to judge in an empty row
                 result = {"correct": None, "reason": "skipped: empty text"}
 
             py_issues = "; ".join(issue_map.get(row["id"], []))
